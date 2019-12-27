@@ -1,2 +1,2 @@
 # Sorting Visualizer
-Visualization of process JS sorts algoritms
+Sortng algortimes visualization. Using react app.
