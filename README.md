@@ -1,2 +1,2 @@
 # Sorting Visualizer
-Sortng algortimes visualization. Using react app.
+School project. Just some sort algorithms vizualized with python arcade.
