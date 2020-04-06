@@ -1,2 +1,2 @@
 # Sorting Visualizer
-School project. Just some sort algorithms vizualized with python arcade.
+School project. 6 Algoritmes visualization.
