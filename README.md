@@ -1,2 +1,2 @@
 # Sorting Visualizer
-School project. 6 Algoritmes visualization.
+School project 2019. 6 Algoritmes visualization.
